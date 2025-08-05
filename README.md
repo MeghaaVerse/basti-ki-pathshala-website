@@ -32,8 +32,8 @@ A simple, responsive, and meaningful NGO website developed for the **Web Develop
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the website](https://your-username.github.io/basti-ki-pathshala-website/)  
-_(Replace with your actual GitHub Pages link)_
+👉 [Click here to view the website](https://meghaaverse.github.io/basti-ki-pathshala-website/)  
+
 
 ---
 
@@ -41,7 +41,7 @@ _(Replace with your actual GitHub Pages link)_
 
 ** A Meghamala**  
 CSE Student, The Oxford College of Engineering  
-🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🌐 LinkedIn: [linkedin Profile](www.linkedin.com/in/a-meghamala-21986825a)  
 📧 Email: your.email@example.com
 
 ---
